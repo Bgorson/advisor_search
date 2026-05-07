@@ -34,7 +34,7 @@ FIRMS = [
 ]
 
 BROCHURE_URL = "https://reports.adviserinfo.sec.gov/reports/ADV/{crd}/PDF/{crd}.pdf"
-USER_AGENT = "syl-proto/0.1 research spike (contact: brandon.gorson@gmail.com)"
+USER_AGENT = "advisor-search/0.1 research spike (+https://github.com/Bgorson/advisor_search)"
 
 
 class FieldAnswer(BaseModel):

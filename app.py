@@ -26,7 +26,7 @@ SEC_URL = (
     "ia050126.zip"
 )
 SOURCE_LABEL = "SEC Form ADV Part 1 — May 2026 monthly snapshot"
-USER_AGENT = "syl-proto/0.1 (brandon.gorson@gmail.com)"
+USER_AGENT = "advisor-search/0.1 (+https://github.com/Bgorson/advisor_search)"
 
 COMPENSATION = {
     "5E(1)": "Percentage of assets under management",
