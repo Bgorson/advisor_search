@@ -1,3 +1,14 @@
+---
+title: Advisor Lookup
+emoji: 📄
+colorFrom: blue
+colorTo: indigo
+sdk: streamlit
+sdk_version: 1.39.0
+app_file: app.py
+pinned: false
+---
+
 # Advisor Search
 
 Prototype web app that looks up SEC-registered investment advisers and returns structured Form ADV Part 1 data. **Currently $0/mo to operate** (no LLM calls in the deployed path).
