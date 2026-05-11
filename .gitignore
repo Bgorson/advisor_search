@@ -15,5 +15,4 @@ wheels/
 
 # Spike artifacts
 brochures/
-data/
 *_output*.log
