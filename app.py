@@ -32,7 +32,7 @@ SEC_URL = (
     "ia050126.zip"
 )
 SOURCE_LABEL = "SEC Form ADV Part 1 — May 2026 monthly snapshot"
-USER_AGENT = "advisor-search/0.1 (+https://github.com/Bgorson/advisor_search)"
+USER_AGENT = "advisor-search/0.1 bgorson32@gmail.com"
 
 DB_PATH = Path("data/individuals.db")
 
